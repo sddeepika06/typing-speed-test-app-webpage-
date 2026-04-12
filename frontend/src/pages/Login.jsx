@@ -61,7 +61,7 @@ export default function Login() {
         <div style={{ textAlign: 'center', marginBottom: 8 }}>
           <i className="fas fa-keyboard" style={{ fontSize: '2.5rem', color: 'var(--primary)' }}></i>
         </div>
-        <h2>TypingMaster Pro</h2>
+        <h2>Typing Speed Test App</h2>
         <p className="subtitle">{tab === 'login' ? 'Welcome back! Sign in to continue.' : 'Create an account to track your progress.'}</p>
 
         {/* Tabs */}

@@ -1,4 +1,4 @@
-# TypingMaster Pro — Full Stack Typing Speed Test App
+# Full Stack Typing Speed Test App
 
 A full-stack typing speed test app built with **React + Vite**, **Node.js + Express**, and **MongoDB**.
 
