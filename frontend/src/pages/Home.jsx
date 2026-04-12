@@ -167,7 +167,7 @@ export default function Home() {
       <div className="container">
         <div className="app-header">
           <Navbar />
-          <h1><i className="fas fa-keyboard" style={{ marginRight: 12 }}></i>TypingMaster Pro</h1>
+          <h1><i className="fas fa-keyboard" style={{ marginRight: 12 }}></i>Typing Speed Test App</h1>
           <p>Challenge yourself with different difficulty levels</p>
         </div>
 
